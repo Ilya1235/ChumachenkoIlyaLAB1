@@ -1,2 +1,1 @@
-# ChumachenkoIlyaLAB1
-Laboratornaya converter
+Конвертер температур Цельсия, Фаренгейта, Цельсия
